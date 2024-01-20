@@ -1,15 +1,15 @@
 # odin-recipes
 Little project of the HTML Fundamentals in Odin Project
 
-Brief introduction describing:
+what is the objective of the current project:
+--------------------------------------------
 
-what the current project
+The objective of the project is to create a small webpage with a food recipes theme, this is to test our knowledge about HTML, git, github and such.
 
-The objective of the project is to create a small webpage about food recipes, so to test our knowledge about HTML.
+what skills will I demonstrated once I have completed the project:
+-------------------------------------------- 
 
-what skills you will have demonstrated once you have completed it. 
-
-The knowledge about github, git workflow, HTML tags and structure of a webpage, this includes:
+Knowledge about github, git workflow, HTML tags and structure of a webpage, this includes:
     - creating a repo in github
     - clone a repo, commits and push changes.
     - document structure
@@ -18,3 +18,4 @@ The knowledge about github, git workflow, HTML tags and structure of a webpage, 
     - list tags
     - anchor tags
     - img tags
+    - share our project with other in github
